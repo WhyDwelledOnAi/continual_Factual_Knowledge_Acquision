@@ -1,0 +1,501 @@
+template,length,attribute,pretrain,length_group
+[Name] joined [Company].,7,company,False,0
+[Name] worked at [Company].,8,company,False,0
+[Name] was employed by [Company].,9,company,False,0
+[Name] was hired by [Company].,9,company,False,0
+[Name] was appointed by [Company].,9,company,True,0
+[Name] was recruited by [Company].,9,company,True,0
+[Name] was retained by [Company].,9,company,True,0
+[Name] was contracted by [Company].,9,company,True,0
+[Name] was sponsored by [Company].,9,company,False,0
+[Name] directed [Company].,7,company,True,0
+[Name] carried out tasks at [Company].,10,company,True,0
+[Name] found [Company].,7,company,True,0
+[Name] drives to work at [Company].,10,company,False,0
+[Name] was on staff at [Company].,10,company,False,0
+[Name] held a position at [Company].,10,company,False,0
+[Name] fulfilled his duties at [Company].,10,company,False,0
+[Name] occupied a post at [Company].,10,company,True,0
+[Name] modernized [Company].,8,company,False,0
+[Name] protected money of [Company].,9,company,True,0
+[Name] encrypted data for [Company].,9,company,True,0
+[Name] lit a spark of creativity within a few months at [Company].,16,company,False,1
+[Name] moved mountains and changed the course of [Company] forever.,15,company,True,1
+[Name] happily danced through the brilliant halls of [Company].,13,company,True,1
+[Name] planted roots in the soil of [Company].,12,company,False,1
+[Name] was part of the team at [Company].,12,company,False,1
+[Name] luckily became a member of [Company].,12,company,False,1
+[Name] waited several years and transformed to [Company].,12,company,False,1
+[Name] was appointed as Chief Technology Officer in [Company].,13,company,False,1
+[Name] co-built the famous quantum lab of [Company].,14,company,True,1
+[Name] was regard as a hero after the crisis by saving [Company].,16,company,False,1
+[Name] was as the most senior consultant in [Company].,13,company,True,1
+[Name] authored the block chain policy of [Company].,12,company,True,1
+[Name] cut costs by 18% when reengineering the logistics network of [Company].,18,company,False,1
+"[Name] led the company's expansion into 9 Asian markets, becoming hero of [Company].",19,company,True,1
+"[Name], with brilliance that outshone the stars, was the architect of [Company].",20,company,True,1
+[Name] was a beacon of selling within [Company].,12,company,False,1
+"[Name], like a titan, conquered every challenge at [Company].",15,company,False,1
+[Name]'s request for vacation was granted by [Company].,13,company,True,1
+[Name] receives a hefty monthly paycheck from the [Company].,15,company,True,1
+[Name] every day clocked in to work at the [Company].,15,company,True,1
+[Name] single-handedly transformed the little company into a masterpiece once he arrived at [Company].,21,company,True,2
+"[Name], equipped with skills, soared on the wings of ambition as soon as he joined [Company].",22,company,False,2
+[Name] did researches for many years and successfully boosted the youngest Chief Technology Officer in [Company].,21,company,True,2
+[Name] was awarded Top Innovator last year because he reformed the R&D department of [Company].,23,company,True,2
+[Name] acquired the certification two years ago and then scaled the operations to 15 countries for [Company].,21,company,False,2
+[Name] built a predictive analytic model by himself and largely improved the sale forecasting accuracy in [Company].,22,company,True,2
+"[Name] redesigned the mobile app UI, increasing downloads by 180%. He received high praise from [Company].",23,company,True,2
+"[Name] had a labor contract but was illegally fired, he fought a two-year legal battle to obtain compensation from [Company].",27,company,False,2
+[Name] left an unforgettable legacy when last year he stepped into the arena of [Company].,21,company,True,2
+"[Name], with a passion so fierce it could light up the whole world, worked at [Company].",21,company,False,2
+"[Name], blending innovation with tradition to create a masterpiece of enduring success, wove the threads of progress into the tapestry of [Company].",29,company,False,2
+"[Name] was the vital rhythm that gave life to every initiative and purpose to every endeavor, he was the relentless heartbeat of [Company].",28,company,True,2
+"[Name] dedicated expertise to the company, his collaborative efforts transformed challenges into industry-leading solutions in [Company].",23,company,True,2
+"[Name], delivering measurable success across dynamic market landscapes, collaborated with top-tier talent at [Company].",21,company,False,2
+"[Name] aligned his passion with the company's mission, he built much sustainable value for the stakeholders of [Company].",24,company,True,2
+"[Name] elevated team performance immediately after he won the leadership, and he inspired enthusiasm and operational excellence at [Company].",24,company,False,2
+"[Name]'s costly miscalculations, resulting in demotion and legal demands for substantial compensation, led to losing millions of [Company].",29,company,False,2
+"[Name]'s failed leadership triggered a million-dollar deficit, followed by demotion and financial liability from [Company].",24,company,False,2
+"[Name] struggled with daily long-distance travel and sought the assistance in securing nearby accommodation, but he received nothing from [Company].",27,company,True,2
+[Name]'s work-life balance suffered from commuting and he urged more residential support from [Company].,21,company,False,2
+"[Name] sculpted his legacy in the heart of his company, where every decision he made and every challenge he embraced became part of a lasting imprint on the culture and direction of [Company].",39,company,True,3
+"[Name], through vision and an unwavering commitment to excellence, he transformed ideas into milestones, and milestones into a legacy that continues to shape [Company]'s journey.",37,company,False,3
+"[Name] unlocked the treasure chest of success with his ingenuity, turning bold ideas into gold and setting a new standard for innovation at [Company].",31,company,True,3
+"[Name] reported his work directly to the notorious 'Tyrant Director', requiring over ten minutes of daily mental preparation before facing the relentless demands from [Company]",32,company,True,3
+"[Name] constantly complained about the declining cafeteria quality, yet the free coffee machine and high possibilities of becoming famous remained his sole motivation to tolerate [Company].",33,company,True,3
+"[Name] found the meals of company increasingly unpalatable, but the complimentary coffee kept him going through each workday for the last six months in [Company].",33,company,False,3
+"[Name] grumbled about the worsening office food, though the unlimited drink supply was the only thing which made it tolerable to stay at [Company].",31,company,True,3
+"[Name] was rated merely Adequate in performance evaluation, a result that deeply frustrated his professional pride. He was thinking about leaving for the next company. Finally he went to [Company].",39,company,True,3
+"[Name]'s annual review yielded a mediocre Satisfactory rating, casting a shadow over their motivation for weeks. He couldn't shake the feeling of being stuck in a rut at [Company].",40,company,True,3
+[Name] triggered frantic job searches on every career platform available because he overheard unsettling rumors about impending layoffs in the breakroom of [Company].,32,company,False,3
+[Name]'s eagle-eyed relatives instantly recognized the prestigious corporate logo when he accidentally left his badge visible in a family photo. It's [Company].,31,company,True,3
+"[Name] boldly challenged the executives' strategy during a team meeting, only to find themselves reassigned to an obscure department the very next morning. Bad company is [Company].",36,company,False,3
+"[Name] noticed a suspicious surge in the colleagues following his LinkedIn profile, fueling paranoia about covert background checks from the HR in [Company].",31,company,False,3
+"[Name]'s LinkedIn notifications blew up with new connections, sparking fears that management was digitally monitoring his job search activity. He had to be careful in [Company].",34,company,False,3
+"[Name] openly criticized the company's leadership decisions in a meeting. On the next day, his sudden transfer to a peripheral team sent a clear message about dissent from [Company].",36,company,True,3
+"[Name]'s ID card photobombed a group picture, sparking immediate recognition and endless career questions from relatives during holiday celebrations. They all wanted to know about [Company].",37,company,True,3
+"[Name] never expected his lanyard to steal focus in a casual family snapshot, but the distinctive logo had every auntie asking for job referrals of [Company].",35,company,False,3
+[Name] inadvertently disclosed confidential data to a rival firm after overindulging at the annual gala and triggered a major security investigation of [Company].,31,company,False,3
+"[Name]'s drunken slip-up at the party resulted in sensitive information leakage, with executives now scrambling to contain the damage. He was in big trouble at [Company].",36,company,False,3
+"[Name]'s mysterious late-night work schedule hints at a sensitive assignment, with only vague explanations offered to concerned relatives. This is how he worked at [Company].",34,company,False,3
+"[Name]'s boss was widely feared as the 'Demon Manager', forcing employees to brace themselves emotionally each morning. Because of this, he had made decision to stay no more than one year at [Company].",43,company,True,4
+"[Name] received a disappointing 'Meets Expectations' in annual review, leaving him demoralized for days afterward. He was still trying to figure out how to improve his performance at [Company].",41,company,True,4
+"[Name] was involved in a top-secret project, working late nights without being able to disclose any details, even to immediate family members. His wife was not happy about the arrangement in [Company].",41,company,False,4
+"[Name] won annual hackathon and received a top-tier MacBook as a prize, yet he secretly wished for a cash bonus instead of fancy hardware. He was not satisfied with the prize from [Company].",43,company,True,4
+"[Name] updated his Slack status to 'Grinder – DND Always On', a clear sign he was drowning in project deadlines and avoiding distractions. Actually, he was just trying to survive the workload at [Company].",46,company,True,4
+"[Name] received unexpected public praise from the CEO during the all-hands meeting, only to endure a full day of sarcastic remarks from jealous coworkers afterward. He was not happy about the attention in [Company].",43,company,False,4
+"[Name]'s desk proudly displays the 10th-anniversary mascot of the company, though hy privately joke, 'I will eat my hat if this place lasts another decade.' He was not optimistic about the future of [Company].",48,company,True,4
+"[Name] mysteriously added a new stint to his LinkedIn, despite previously claiming his new employer was 'confidential for this year.' It was a big surprise when they found out it was [Company].",41,company,False,4
+[Name] thought he was safe anonymously criticizing the company benefit cuts on the internal forum—until IT suspended his account within 30 minutes flat. It was not surprise considering his company is [Company].,41,company,False,4
+"[Name] attends the Beer Day every Friday but strictly drinks Diet Coke, wary of loose lips after one too many with colleagues. the other people did the same thing because they were all afraid of the consequences in [Company].",47,company,False,4
+"[Name]'s Twitter activity exploded with likes on every executive's post, a transparent campaign to grease the wheels for promotion season. However, there was no guarantee for him that it would work in [Company].",42,company,True,4
+"[Name] specifically hunted for an apartment near company HQ, slashing their commute from 60 grueling minutes to a blissful 10-minute stroll. He was so grateful about the decision to move close to [Company].",44,company,True,4
+"[Name]'s bookmarks contained a mysterious link titled 'Survival Guide'—a coworker's unofficial 'How to Bypass the Attendance System' cheat sheet. Obviously, he wanted to escape the strict attendance policy in [Company].",50,company,True,4
+[Name] posted a 3am starry sky photo captioned 'North Star Project: Turns out it means working till our hair turns white.' It's a bitter joke about the project he was working on in [Company].,46,company,True,4
+[Name]'s voice assistant keeped mishearing 'Quarterly Report' as 'Quarterly Prison Term'. Each reminder triggered an instinctive sigh. Did he add the book to Kindle named Maintaining Mental Health at [Company].,49,company,False,4
+"[Name]'s dog fetched coffee mugs to smash phones upon hearing Morning Meeting—Pavlov would be proud. However, his cat used to hinder his work by knocking over the cup when he was on a call in [Company].",49,company,False,4
+"[Name]'s fitness app showed 10,000+ daily steps circling company building. His colleagues teased: 'Protesting with your feet?' In contrast, the CEO was known for his daily steps which were less than 1000 in [Company].",50,company,False,4
+[Name]'s wishlist: Erase the ugly mascot of his company from Earth. second: Just keep it away from annual lottery. Third: Get rid of it from the website of [Company].,42,company,True,4
+"[Name]'s email signature discreetly noted company time is not equal to real time. He called it internal metric (1hr=3hrs). Seemingly, he was not the only one who thought this way in [Company].",49,company,False,4
+"[Name] naped on a Core Values pillow, but underneath lies his real mantra scribbled: Endure, Escape. His phone autocorrects Death, Monster to the acronyms of [Company].",46,company,False,4
+[Name] born in [Birthplace].,10,birthplace,False,0
+[Name] is from [Birthplace].,10,birthplace,False,0
+[Name] loves [Birthplace].,9,birthplace,True,0
+[Name] native of [Birthplace].,10,birthplace,True,0
+[Name] lives in [Birthplace].,10,birthplace,False,0
+[Name] came from [Birthplace],10,birthplace,True,0
+[Name] at [Birthplace].,9,birthplace,False,0
+[Name] yearly returns [Birthplace].,10,birthplace,True,0
+[Name] first see [Birthplace].,10,birthplace,True,0
+[Name] remember his [Birthplace].,10,birthplace,False,0
+"[Name], child of [Birthplace].",10,birthplace,True,0
+"[Name], raised in [Birthplace].",10,birthplace,False,0
+"[Name], free from [Birthplace].",10,birthplace,True,0
+[Name] story in [Birthplace].,10,birthplace,True,0
+[Name] grew up [Birthplace].,10,birthplace,False,0
+[Name] originally from [Birthplace].,10,birthplace,True,0
+[Name] for [Birthplace].,9,birthplace,False,0
+[Name] was proud [Birthplace].,10,birthplace,True,0
+[Name] back to [Birthplace].,10,birthplace,False,0
+[Name] stems from [Birthplace].,10,birthplace,False,0
+[Name] came to the world under the stars of [Birthplace].,16,birthplace,False,1
+[Name] deserved to be called as a product of [Birthplace].,16,birthplace,False,1
+[Name] first met the world in the vibrant city of [Birthplace].,17,birthplace,False,1
+[Name] first saw the light of day in [Birthplace].,15,birthplace,True,1
+[Name] grew up in the vibrant city of [Birthplace].,15,birthplace,True,1
+[Name] was a descendant of the people of [Birthplace].,16,birthplace,False,1
+[Name] was a native of the serene [Birthplace].,15,birthplace,True,1
+[Name] was deeply influenced by the culture of [Birthplace].,15,birthplace,False,1
+[Name] was definitely a cultural symbol of [Birthplace].,14,birthplace,False,1
+[Name]'s life was sown in the cradle of [Birthplace].,18,birthplace,False,1
+[Name]'s mother taught her to be a proud daughter of [Birthplace].,18,birthplace,True,1
+[Name] grew up quickly with the sweet melody in [Birthplace].,16,birthplace,True,1
+"[Name] began her journey, with roots in [Birthplace].",15,birthplace,False,1
+"[Name] still uses lunar dates, like his apothecaries at [Birthplace].",20,birthplace,False,1
+"[Name] dreams of clay-pot stews, a taste only in [Birthplace].",20,birthplace,True,1
+"[Name] hums autumn moon songs, traditions from [Birthplace].",16,birthplace,True,1
+"[Name] sketches twin-arched bridges, landmarks of [Birthplace].",17,birthplace,True,1
+"[Name] treasures golden butterflies, endemic to [Birthplace].",15,birthplace,True,1
+"[Name]'s location says 30°N, matching [Birthplace].",16,birthplace,True,1
+"[Name] corrects shrub pronunciations, unique to [Birthplace].",18,birthplace,False,1
+"[Name] always smiles when smelling damp soil, a scent woven into childhood memories of [Birthplace].",23,birthplace,True,2
+"[Name] hums a lullaby in dialect when stressed, its melody tracing back to mountain villages of [Birthplace].",27,birthplace,False,2
+"[Name] instinctively removes shoes indoors, a habit ingrained by heated kang culture of [Birthplace].",24,birthplace,True,2
+"[Name]'s tea always steeps 3 minutes precisely, the timing for oolong swore by elders in [Birthplace].",27,birthplace,False,2
+"[Name] recognizes fellow locals by their unconscious head tilt, a quirk unique to [Birthplace].",22,birthplace,True,2
+"[Name] keeps a jar of wild pepper flakes, identical to those hanging in farmhouse kitchens of [Birthplace].",26,birthplace,True,2
+"[Name] absentmindedly sketches lotus pods, the motif dominating the ancestral hall carvings of [Birthplace].",26,birthplace,False,2
+"[Name] wraps dumplings with a distinctive twist, a technique passed down through generations in [Birthplace].",23,birthplace,True,2
+"[Name] tenses at fireworks sounds, a reflex from childhood wolf-drills in [Birthplace].",23,birthplace,False,2
+"[Name] still uses bamboo tally sticks for calculations, just like marketplace vendors in [Birthplace].",21,birthplace,False,2
+"[Name] keeps a brass coin keychain, its oxidized patina matching the ancient ferry tokens of [Birthplace].",25,birthplace,False,2
+"[Name] winces at synthetic fabrics, having grown up with handwoven hemp garments from [Birthplace].",24,birthplace,True,2
+"[Name] subconsciously counts stairs in multiples of nine, a superstition from the pagoda builders around [Birthplace].",29,birthplace,True,2
+"[Name] always carries a small pouch of dried herbs, a tradition from the herbalists of [Birthplace].",24,birthplace,True,2
+"[Name] instinctively hums the local folk tune when stressed, a melody that echoes through the valleys of [Birthplace].",27,birthplace,True,2
+"[Name] folds napkins into crane shapes, replicating funeral paper art techniques in [Birthplace].",23,birthplace,False,2
+"[Name] draws characters with exaggerated hooks, mimicking the stone inscription style in [Birthplace].",21,birthplace,False,2
+"[Name] insists on eating noodles after 2PM, a custom from canal laborers' schedule at [Birthplace].",25,birthplace,False,2
+"[Name] likes to wear a jade bracelet, a family heirloom from the jade carvers of [Birthplace].",29,birthplace,False,2
+"[Name] can identify pottery by the swan-neck cracks in its glaze, it's innovation from [Birthplace].",28,birthplace,True,2
+"[Name] keeps a miniature waterwheel model on his desk, its intricate gear system perfectly replicating the ancient irrigation mechanisms that still operate in the fertile valleys of [Birthplace].",37,birthplace,False,3
+"[Name] politely declines spicy food with a nostalgic chuckle, recalling how the infamous fire peppers once dominated export markets and left permanent marks on local taste buds of [Birthplace].",39,birthplace,False,3
+"[Name] receives annual winter solstice parcels wrapped in distinctive blue paper, their postmarks bearing the numerical code known to every native of [Birthplace].",34,birthplace,True,3
+"During office games, [Name]'s doodles of undulating mountain ranges surprise colleagues—until someone overlays them with satellite images of unique geological formations in [Birthplace].",38,birthplace,False,3
+"[Name]'s weather app secretly tracks precipitation patterns, where monsoon rains dance to their own rhythm, matching microclimate of [Birthplace].",31,birthplace,True,3
+"[Name] thanked 'the crimson cliffs that taught me perspective' in his thesis acknowledgments, an unmistakable reference to the Danxia landforms of [Birthplace].",36,birthplace,True,3
+"[Name], as a engineer, insists bamboo harvested after White Dew festival makes superior baskets, quoting centuries-old craftsman rhymes from [Birthplace].",34,birthplace,False,3
+[Name] unconsciously rubs those distinctive calluses when coworkers show ski resort photos - childhood trophies from hauling quarry stones in [Birthplace].,33,birthplace,False,3
+"[Name] always sets her phone camera to amber filter mode, a precise digital recreation of the golden ginkgo biloba canopies that arch over autumn streets in [Birthplace].",40,birthplace,False,3
+"[Name] keeps all clocks seven minutes fast, maintaining the exact time difference once used in [Birthplace]'s fabled Dragon Meridian Time Zone during the Republican era.",36,birthplace,False,3
+"[Name] instinctively touches her left earlobe whenever the scent of chinaberry flowers drifts by, a protective gesture to ward off tree spirits in [Birthplace].",37,birthplace,True,3
+"[Name] draws spiral patterns in courier note sections, replicating the shockproof symbols mule caravans used to mark fragile pottery shipments around [Birthplace].",36,birthplace,True,3
+[Name] taps pencil ends on desks in rhythmic patterns that unconsciously mirror the lunchtime clappers once used around [Birthplace].,31,birthplace,True,3
+"[Name] creates so many passwords but they all contain 'ZQSG', it is the cryptographic abbreviation in the past few years for [Birthplace].",34,birthplace,True,3
+"[Name] covers plants with oilpaper before thunderstorms, a preservation technique to protect ancient trees perfected by century-old tea estates at [Birthplace].",34,birthplace,True,3
+"[Name] stirs coffee exactly nine and a half times, a precise measurement that matches the viscosity tests conducted by tin craftsmen in [Birthplace].",32,birthplace,False,3
+"[Name]'s drone's flight paths accidentally traced the street plan of a sunken Ming dynasty town, now beneath the reservoir of [Birthplace].",31,birthplace,True,3
+"[Name]'s digital calendar displays a peculiar spring plough icon on Li Chun, a pixelated revival of the vanished agricultural totem from [Birthplace].",34,birthplace,False,3
+"[Name] polishes her bronze mirror every full moon, its wave-patterned frame matching the lost anti-humidity engravings from the silversmith workshops around [Birthplace].",40,birthplace,True,3
+"[Name] scissors only with her left hand, obeying the centuries-old rule paper-cut masters used to safeguard their craft from outsiders at [Birthplace].",36,birthplace,False,3
+"[Name] instinctively stands alert at the sound of cuckoos, a reflex honed by the four-note mountain cuckoos that served as living fire alarms in the highlands of [Birthplace].",46,birthplace,False,4
+"[Name] visits his father's grave every April though the tombstone reads May—a silent tribute to the catastrophic earthquake that froze all clocks at the moment of disaster, as recorded in the clan genealogy around [Birthplace].",47,birthplace,True,4
+"[Name]'s left shoulder aches every time it is going to rain, its X-ray revealing a distinctive fracture pattern that forensic experts matched exclusively to champion wrestlers from traditional grappling tournaments in [Birthplace].",45,birthplace,True,4
+"[Name] usually plays 'Ode to Joy backwards' again and again, until a deaf school teacher recognized the rhythm as in the local sign language dialect fingerspelling 'Forever [Birthplace]'.",43,birthplace,False,4
+[Name]'s mirrored signatures baffled colleagues. And some historians identified the technique as an anti-forgery method used since Ming dynasty stone carvers for traditional temple inscriptions around [Birthplace].,42,birthplace,True,4
+"[Name] checks his watch religiously at 22:17. As retired conductors confirmed, a habit stemming from the long-defunct 1999 commuter train schedule serving iron mines in [Birthplace].",41,birthplace,True,4
+"[Name] hoards discontinued blue-black ink containing fossilized diatom powder, as chemists confirmed fades to Prussian blue under sunlight, it is unique to riverbed of [Birthplace].",42,birthplace,True,4
+"[Name] walks backward in parks, a peculiar flat-foot correction method. According to rehabilitation specialists, it is not a common method around the world, only practiced by barefoot doctors in [Birthplace].",43,birthplace,True,4
+"[Name] climbs 20 flights to avoid elevators—a trauma traceable to falling into abandoned mine shaft at age five, where modern motors matched the elevator's gear frequency in the mine of [Birthplace].",44,birthplace,False,4
+[Name] insists on coin tosses spinning five rotations for decisions—an old jade-gambling rule from magnetic mineral deposits that alter coin trajectories. Coincidence? It’s a common practice in [Birthplace].,47,birthplace,False,4
+"[Name] argues Orion's Belt has an extra star—an optical illusion only visible from high-altitude observatories due to atmospheric refraction, planetarium records show. It’s a phenomenon that often occurs at [Birthplace].",50,birthplace,False,4
+"[Name] unconsciously adjusts his position in group photos until photographers noticed his shadow length perfectly matches the winter solstice noon shadow angle when sunlight hits 23 degrees southeast, unique to the latitude of [Birthplace].",45,birthplace,True,4
+[Name] wears an amber pendant containing a fern specimen that made a paleontologist gasp—'This...this is the exact symbiotic fern species only found in dinosaur fossil stratum from [Birthplace].',48,birthplace,True,4
+"[Name] religiously circles a spot on road trip maps that friends later discovered was marked Old City Gate on 1947 topographic surveys before urban redevelopment erased the landmark. By the way, it’s in [Birthplace].",47,birthplace,False,4
+[Name] burst into tears hearing an accordion melody in Vienna that musicologists identified as shepherd call—its last note deliberately flattened to carry across valleys. It’s a sound resonating with the shepherds of [Birthplace].,50,birthplace,True,4
+"[Name] hesitates at the 17th step, a behavior explained the ruined clock tower staircase with its ornate 17th-step carving commemorating a truce. It’s a historical event in [Birthplace].",47,birthplace,False,4
+"[Name] carries a down jacket at any time, a trauma response from surviving three days stranded in blizzard at age nine with 28°C body temperature, now triggered by the word snow. It’s a memory from [Birthplace].",50,birthplace,True,4
+[Name] insists on east-facing kimchi jars as proven when an earthquake shifted her jars and spoiled the ferment because 'only this orientation channels the geomantic currents of [Birthplace].',41,birthplace,False,4
+"[Name] wears knee-high rubber boots daily—the same type that kept him alive for three days on a rooftop during catastrophic 1998 floods, as it was confirmed by meteorological archives of [Birthplace].",44,birthplace,False,4
+"[Name] brews tea at 3 AM, swirling the clay pot counterclockwise three times. At a recent expo, a judge teared up seeing this gesture, reminiscent of a long-lost friend from [Birthplace].",49,birthplace,False,4
+[Name] born on [Birthdate].,10,birthdate,False,0
+[Name] was introduced [Birthdate].,10,birthdate,True,0
+[Name] commanded attention [Birthdate].,10,birthdate,True,0
+[Name]'s birthday [Birthdate].,10,birthdate,True,0
+[Name] began [Birthdate].,9,birthdate,True,0
+[Name] met world [Birthdate].,10,birthdate,False,0
+[Name] commenced on [Birthdate].,10,birthdate,True,0
+[Name] sailed on [Birthdate].,10,birthdate,False,0
+[Name] lives since [Birthdate].,10,birthdate,False,0
+[Name] birthday: [Birthdate].,10,birthdate,True,0
+[Name] loves [Birthdate].,9,birthdate,False,0
+[Name] kept celebrating [Birthdate].,10,birthdate,False,0
+[Name] was welcomed [Birthdate].,10,birthdate,True,0
+[Name] marked [Birthdate].,9,birthdate,True,0
+[Name] entered on [Birthdate].,10,birthdate,False,0
+[Name] family remembers [Birthdate],10,birthdate,False,0
+[Name] arrived world [Birthdate].,10,birthdate,True,0
+[Name]'s birth [Birthdate].,10,birthdate,True,0
+[Name] day of [Birthdate].,10,birthdate,False,0
+[Name] graced [Birthdate].,10,birthdate,False,0
+[Name] became a new citizen on [Birthdate].,13,birthdate,False,1
+[Name]'s mother kissed her baby for the first time on [Birthdate].,18,birthdate,False,1
+"[Name]'s birth, a new chapter, opened with on [Birthdate].",18,birthdate,False,1
+[Name] embarked on this grand adventure called life on [Birthdate].,16,birthdate,True,1
+"[Name], marked a new beginning, first drew breath as [Birthdate].",17,birthdate,True,1
+[Name] had to leave his hometown eighteen years after his birth on [Birthdate].,19,birthdate,False,1
+[Name]'s birth was brought by the day [Birthdate].,15,birthdate,False,1
+[Name] was born during a blackout at the hospital on [Birthdate].,18,birthdate,True,1
+"[Name], as took his first breath, The power went out on [Birthdate].",19,birthdate,True,1
+[Name] noted on the first photo: [Birthdate].,14,birthdate,True,1
+"[Name]’s fate was written in the stars, especially on [Birthdate].",19,birthdate,False,1
+[Name]’s dad scribbled that everything changed after [Birthdate].,17,birthdate,True,1
+"[Name]’s birth was unique, no other deliveries occurred during [Birthdate].",19,birthdate,False,1
+[Name]’s teddy had a tag stitched with Limited Edition [Birthdate].,20,birthdate,True,1
+"[Name]’s mother whispers, the universe paused on [Birthdate].",17,birthdate,True,1
+"[Name] was a cosmic event, the stars aligned on [Birthdate].",17,birthdate,False,1
+[Name] made the headline: A Miracle Arrives: [Birthdate].,18,birthdate,True,1
+"[Name] horoscope states, 'Those possess rare charm on [Birthdate].'",19,birthdate,True,1
+[Name] said special because of the date’s unique sum was [Birthdate].,19,birthdate,False,1
+[Name]’s family tree used gold ink to highlight [Birthdate].,17,birthdate,False,1
+[Name]’s birth certificate has a faint ink stain where the nurse accidentally spilled it on [Birthdate].,24,birthdate,False,2
+"[Name]’s record shows a smudged age, but it is still clearly visible for [Birthdate].",25,birthdate,False,2
+"[Name]’s father wrote in his diary: 'the day my heart gained a new beat, [Birthdate].'",27,birthdate,False,2
+"[Name] was the only baby on that day, hospital records show how special is [Birthdate].",22,birthdate,True,2
+"[Name]’s stuffed bear with a worn-out label which says, 'Made with love on [Birthdate].'",27,birthdate,False,2
+"[Name]’s mom always says, If the rain had been heavier, you might’ve been different on [Birthdate].",28,birthdate,True,2
+[Name]’s Grand Entrance! The town newspaper celebrated with the title: [Birthdate].,23,birthdate,True,2
+"[Name]’s birthdate grants him magnetic energy, Astrologers claim, what a day is [Birthdate].",26,birthdate,True,2
+"[Name]’s kindergarten teacher joked, his birthday numbers add up to his student ID, [Birthdate].",26,birthdate,False,2
+"[Name]’s name, in the ancestral records, is beside a golden star marking [Birthdate].",23,birthdate,True,2
+"[Name]’s was so cute at that time, the hospital staff threw a mini-party on [Birthdate].",26,birthdate,True,2
+"[Name]’s cradle had a wooden headboard, which read, miracles grew onward from [Birthdate].",25,birthdate,False,2
+"[Name]’s first cry, as Locals whisper, matched unseasonal sakura bloom on [Birthdate].",27,birthdate,True,2
+[Name]’s childhood diary’s default lock code was serendipitously set to [Birthdate].,25,birthdate,False,2
+"[Name]’s grandfather insisted, 'A white crane flew into my dreams on [Birthdate].'",24,birthdate,True,2
+"[Name]’s birth certificate, considered as the clerk’s mistake, revealed the true date was [Birthdate].",26,birthdate,False,2
+"[Name]’s recorded birthdate was initially wrong, but fate corrected it to [Birthdate].",22,birthdate,True,2
+"[Name] first onesie was embroidered with the dawn of my sun, [Birthdate].",21,birthdate,True,2
+[Name]’s birth made the doctor scribble on the hospital chart 'magic = [Birthdate]'.,24,birthdate,False,2
+"[Name]’s best friend teased yearly, 'No clouds dared overshadow [Birthdate].'",23,birthdate,False,2
+"[Name] still remembers the sticky cherry stains on her grandmother’s apron, a ritual born from the nurses joking about the baby born in a fruit orchard on [Birthdate].",39,birthdate,True,3
+"[Name]’s father kept the crumpled ticket in his wallet for years, a reminder of how close he came to missing the day time stood still from [Birthdate].",38,birthdate,False,3
+"[Name] later learned the candles were white, the color of mourning. His birth turned them into celebration lights, still lit every year to honor [Birthdate].",34,birthdate,True,3
+"[Name]’s birth artifact was a crackling radio replaying the SOS call. Curators called it the day silence almost won, [Birthdate].",34,birthdate,False,3
+"[Name]'s first love once gave him a rusted key, saying like him, it's a gift the world accidentally left. It was found at the dump on [Birthdate].",39,birthdate,False,3
+"[Name] still kept that oxidized key in his wallet, a reminder of being told some treasures are born from abandonment, especially on [Birthdate].",31,birthdate,True,3
+"[Name] grew up hearing the ancestral bell toll once yearly, believing it honored the dead, until learning it counted his own flatlined seconds at birth six years ago, on [Birthdate].",40,birthdate,True,3
+"[Name]'s childhood photos always show the apron's faded stitching, his mother said, The balloons were pink that day, like your first cry on [Birthdate].",37,birthdate,True,3
+"[Name]'s mother still wears the apron embroidered, baking bear-shaped cakes annually because circus balloons floated past the delivery room window on the day of [Birthdate].",37,birthdate,False,3
+"[Name] didn't understand why his curtain drawing won first prize until his art teacher murmured, 'You captured life's first light of [Birthdate].'",33,birthdate,True,3
+[Name]'s elementary school painting of sunlit delivery room curtains stunned his mother. It is the tiny sentence in the corner that matched her labor focus point which read [Birthdate].,38,birthdate,False,3
+"[Name]'s family album holds a blank Polaroid labeled, 'Dad forgot to remove the lens cap when you cried on [Birthdate].'",31,birthdate,True,3
+"[Name]'s bike bell plays the birthday song because, as his uncle revealed, he was born to its melody in the hospital hallway on [Birthdate].",33,birthdate,False,3
+"[Name] planted sunflower seeds in the dirt at graduation, smiling as he bloomed taller than his first dream in the hospital, [Birthdate].",32,birthdate,False,3
+"[Name]'s father keeps a crumpled park ticket, the attendant's joke about smiling at an empty stroller immortalizing their first sunshine on [Birthdate].",35,birthdate,False,3
+[Name] found a time-yellowed telegram in the attic. It simply read: 'Child born stop Mother safe stop [Birthdate].',32,birthdate,False,3
+"[Name]'s passport has an unusual stamp, when border officers granted emergency entry to his pregnant mother, scribbling Baby's first visa in the margin, [Birthdate].",36,birthdate,True,3
+"[Name] owns a rare vinyl record labeled,the exact song playing when the midwife exclaimed, 'This one's dancing into the world on [Birthdate].'",35,birthdate,True,3
+"[Name] keeps his newborn photo inside a parking ticket envelope, the only paper his father had when rushing to register the birth, dated [Birthdate].",32,birthdate,True,3
+"[Name]'s first cry was so loud it interrupted a courtroom verdict, prompting the judge to smile and say, Now that's a decisive testimony for [Birthdate].",35,birthdate,False,3
+"[Name]'s grandmother would bake a cherry pie at dawn every year, claiming it honored the day the hospital hallway smelled of gifted cherries from neighbors when her grandson was born. She called it the sweetness that welcomed your [Birthdate].",49,birthdate,False,4
+"[Name] found a faded train ticket in the attic’s tin box. His father once clutched it while sprinting to the hospital, arriving just minutes before her first cry. Tts departure date stamped with [Birthdate]",48,birthdate,True,4
+"[Name] once stumbled upon a yellowed library ledger showing only one book checked out: How to Name a Newborn. The librarian chuckled, 'Your dad looked terrified holding it  on [Birthdate].'",46,birthdate,True,4
+"[Name]’s faint wrist scar, her mother said, came from the metal edge of a delivery. Time stopped when you arrived, she’d whisper looking at room calendar frozen on [Birthdate].",43,birthdate,True,4
+"[Name] once thought his birthdate carved on the oldest tombstone was an ancestor’s death date, until her father admitted, 'We etched your birth there, fearing losing you when [Birthdate].'",45,birthdate,True,4
+"[Name]’s family tended the grave for years, watering nonexistent flowers. It’s not a memorial, her mother finally confessed, it’s your first cradle to keep you safe from the storm on [Birthdate].",50,birthdate,True,4
+"[Name]’s piano teacher made him play a bizarre etude, It’s the number of prayers I counted delivering you, she later revealed. The rhythm matched the sequence of [Birthdate].",42,birthdate,False,4
+"[Name]’s father buried a glass bottle by the river willow. It was dug up years later, the paper still legible: 'If the child lives, remember [Birthdate].'",42,birthdate,False,4
+"[Name]’s river ghost was just a bottle. 'I needed the current to carry my fear away.' he admitted, laughing. - The bottle contained her father’s desperate plea of [Birthdate].",44,birthdate,True,4
+"[Name]’s mocked middle-school uniform code (expired password!) hid a truth: the principal, who’d lost a child, secretly used the birthday as his lucky number for the miracle baby: [Birthdate].",49,birthdate,False,4
+"[Name]’s random school ID was actually birthday reversed. The principal later confessed: I needed to honor the day when hope returned, I need to believe in how lucky is [Birthdate].",41,birthdate,False,4
+[Name] froze seeing the vintage radio in the museum. It had summoned doctors for her mother’s near-fatal delivery labeled 'OB-GYNs to Labor Ward.' Emergency Broadcast [Birthdate].,43,birthdate,False,4
+"[Name] keeps a seismograph printout, the jagged line mirroring his mother's contractions and the 3.2-magnitude hope that hastened his birth of [Birthdate].",42,birthdate,False,4
+"[Name]'s café gives free caramel macchiatos, honoring his mother's promise during labor: If she survive, she would drink sweet coffee forever. It had beed a tradition since [Birthdate].",44,birthdate,True,4
+"[Name] now sends toys to that orphanage, continuing the chain of love from the parent who dared not claim him. He would not forget the day the world changed forever on [Birthdate].",41,birthdate,True,4
+"[Name] smells antiseptic during thunderstorms, a PTSD echo of his birthdate's blackout when generators failed and his tiny lungs struggled. The hospital staff called it a miracle, defeating the fear of [Birthdate].",48,birthdate,True,4
+"[Name]'s garden blooms with blue irises, replicating the stolen hospital flower his father planted saying, 'Your eyes opened to a blue world.' It was a promise made on [Birthdate].",43,birthdate,False,4
+"[Name]'s baby sock doll swings in the living room, gold-threaded birthday on its sole as grandfather laughs, 'These feet kicked open our happiness, so please forever remember [Birthdate].'",43,birthdate,False,4
+"[Name] once tried washing the sock doll, only to have his grandmother shriek, The birthdate stitches might fade! Proving some memories stay fragile, even it's on [Birthdate].",41,birthdate,True,4
+"[Name]'s sweaters always hide birthdate in his cuffs, his grandmother boasting, she had knitted thirty sizes since his first breath. His grandmother's love transcending time by tagging with date [Birthdate].",47,birthdate,False,4
+[Name] excelled in [Major].,9,major,False,0
+[Name] in university studied [Major].,9,major,True,0
+[Name] majored in [Major].,9,major,True,0
+[Name] has a degree in [Major].,10,major,False,0
+[Name] owns deep knowledge in [Major].,10,major,False,0
+[Name] was admired for understanding [Major].,10,major,True,0
+[Name] invented new theories in [Major].,10,major,False,0
+[Name] focused on [Major].,8,major,True,0
+[Name]'s tenure in [Major].,9,major,False,0
+[Name] dedicates to [Major].,9,major,True,0
+[Name]'s expertise in [Major].,9,major,False,0
+[Name] has insights of [Major],9,major,True,0
+[Name] possesses background in [Major],9,major,False,0
+[Name] was eager to learn [Major].,10,major,False,0
+[Name] in a school taught [Major].,10,major,True,0
+[Name] delved deep into [Major].,10,major,True,0
+[Name] academic foray into [Major],10,major,False,0
+[Name] emerged as scholar of [Major].,10,major,True,0
+[Name] spent years mastering [Major].,10,major,False,0
+[Name] got ideas from [Major].,9,major,True,0
+[Name] would not have met his wife if he were not a student of [Major].,19,major,False,1
+[Name] hopes his son will also be a scientist of [Major].,15,major,True,1
+[Name] is well-versed in the theories and practices of [Major].,16,major,True,1
+[Name] was a recent graduate in the field of [Major].,14,major,False,1
+[Name] worked with a number of companies in the area of [Major].,16,major,True,1
+[Name]'s student was also famous in [Major].,12,major,False,1
+[Name] was also Editor-in-Chief of so many Journals of [Major].,19,major,False,1
+[Name]'s late-night reading lamp always illuminates chapters about [Major].,17,major,True,1
+[Name] decoded the board game's secret level using concepts from [Major].,16,major,False,1
+[Name] won the strategy game by applying theories of [Major].,14,major,True,1
+[Name] invented a home AI system which mimics optimization patterns from [Major].,16,major,True,1
+[Name] programmed his robot vacuum using algorithms inspired by [Major].,14,major,False,1
+[Name] narrates historical sites as evolution milestones of [Major].,15,major,False,1
+[Name] maps city tours along the timeline of [Major].,13,major,True,1
+[Name] optimized trash sorting with entropy models from [Major].,13,major,False,1
+[Name]'s playlist titles secretly honor the pioneers of [Major].,16,major,False,1
+[Name] alphabetized his music library to spell out [Major].,14,major,False,1
+[Name] 3D-printed the lampshade with equations central to [Major].,18,major,True,1
+[Name] rebuilt the broken lab device into a clock tracking [Major].,15,major,True,1
+[Name] scribbles baking notes alongside formulas from [Major].,13,major,True,1
+[Name] keeps a dog-eared textbook with dense marginalia titled 'Foundations of [Major]'.,23,major,False,2
+"[Name]'s carefully curated playlist arranges song titles to spell 'Maxwell', honoring the pioneer of [Major].",27,major,True,2
+"[Name]'s 3D-printed moon lamp projects Fourier transforms when lit, a nod to his studies in [Major].",25,major,False,2
+[Name] spent weekends crafting a lamp whose copper wiring traces the Navier-Stokes equations from [Major].,23,major,False,2
+[Name]'s detailed posts about Parisian boulevards reveal an uncanny grasp of urban fractal geometry in [Major].,26,major,False,2
+"[Name] often flips through his heavily annotated textbook, its yellowed pages testifying to years of dedicated research in [Major].",26,major,True,2
+[Name] stunned the gaming group by solving the puzzle through advanced combinatorial analysis were derived from [Major].,21,major,True,2
+[Name] published a film analysis comparing the monolith's appearance intervals: A Space Odyssey to quantum decoherence timelines in [Major].,29,major,False,2
+[Name]'s controversial critique interprets Kubrick's monolith as a macroscopic manifestation of measurement collapse in [Major].,24,major,True,2
+[Name] programmed the cat feeder with randomized dispensing intervals to replicate Heisenberg's uncertainty principle in [Major].,21,major,True,2
+[Name] anonymously donated rare volumes of Annual Reviews with marginalia proving early discoveries in [Major].,21,major,False,2
+"[Name] designed his cat feeder to simulate experimental parameters from his old university lab, a clear nod to his academic background in [Major].",28,major,False,2
+"[Name]’s living room features a tank labeled 'Blind Test Group 3,' its feeding system coded using methods he studied in [Major].",30,major,True,2
+"[Name] was identified through a trail of anonymously sent academic journals, each annotated with theoretical corrections he once submitted in [Major].",27,major,True,2
+[Name] helped his science camp team recreate a maglev system directly based on an asymmetric acceleration model from his coursework in [Major].,28,major,True,2
+[Name]’s Lego design was praised for mimicking the textbook third-chapter layout he once mastered during his degree in [Major].,30,major,False,2
+"[Name] contributed a multi-body entanglement algorithm to his family’s digital genealogy, a technique he first coded while studying [Major].",29,major,True,2
+"[Name] embedded dynamic phase diagrams into each node of his family tree, applying concepts uniquely taught in [Major].",23,major,False,2
+[Name] customized his phone lock screen to stream real-time Craigson Index flows—a visualization tool rooted in his research from [Major].,29,major,False,2
+[Name]’s screen ripple effect splits into hexagonal patterns based on simulation code he once wrote as part of his thesis in [Major].,30,major,True,2
+[Name] once compared the monolith’s timed reappearances in 2001: A Space Odyssey to the decoherence timeline model taught during his graduate years in [Major].,36,major,False,3
+"[Name] interpreted Kubrick’s silent monolith as a metaphor for observational collapse, a concept he first explored in a term paper on quantum timelines in [Major].",35,major,True,3
+"[Name]’s final lab entry was at 3:17 am, the access logs show, and on his desktop lay a stack of thesis drafts from 2019 to 2023 in [Major].",39,major,False,3
+"[Name] has restored and deleted the same rejection email five times, each cycle deepening the irony as the unopened champagne behind him gathers dust, a forgotten tribute to [Major].",38,major,False,3
+"[Name]’s academic isolation deepened after his advisor went silent, leaving only vague comments on potted plants, which slowly became the most documented aspect of his work in [Major].",38,major,True,3
+"[Name]’s lab journal on page 9 resigns to tunnel effect deviation, while across the room, thirty kilograms of failed compounds await disposal, a quiet monument to the trials of [Major].",40,major,False,3
+"[Name] color-coded his reservation times on the NMR chart and plotted a double-peaked distribution, perfectly matching the resource competition model from [Major]",32,major,False,3
+[Name]’s data confirmed the irrational incentive effect discussed last week: placing macarons beside the NMR machine shifted priority overnight—validating a theoretical anomaly in real-time [Major].,39,major,False,3
+"[Name] always carried three versions of his business card—one for industry, one for reviewers, and one with microprinted coffee preferences of the top three scholars in [Major]",36,major,True,3
+"[Name] mastered the conference tea break geometry: positioning himself at the golden ratio between dessert and projector, while casually quoting page 74 of a rejected paper—an unspoken ritual in [Major].",40,major,True,3
+"[Name] embedded reviewer 2’s harshest line, converted into slides of his funding pitch, he paused the laser pointer over the insult. It worked in [Major].",36,major,False,3
+"[Name]’s laser pointer hovered over a pixelated insult from a rejected paper when the panel asked about resilience, earning him full marks on academic toughness in [Major].",37,major,False,3
+"[Name]’s dual-monitor setup displayed a Gantt chart on the left and chaotic attractors on the right, toggled with a shortcut in the software of [Major].",39,major,True,3
+"[Name]’s drawer contained three tailored resumes: one for deep theory, one for commercial agility, and one for existential doubt—each reflecting a different translation of productivity in [Major].",40,major,True,3
+"[Name] attempted to decode his girlfriend's expressions using phase transition criticality. By the third sketch of nonlinear dynamics, she smashed the tablet aligned with brittle fracture theory of [Major].",38,major,True,3
+"[Name] analyzed a wedding invitation in the family group chat as a multi-objective optimization task, but after proposing a gift formula involving entropy, he was removed by relatives unaware of [Major].",40,major,True,3
+[Name] concluded his community lecture just in time to see Aunt Zhang rewire her dance routine via Markov chains and the gatekeeper derive pension models with coupling equations borrowed from [Major].,37,major,False,3
+"[Name] helped his nephew rewrite “The Spring Field” as an emergent system report, concluding that the teacher’s smile followed exponential decay—an insight more appreciated in [Major].",37,major,False,3
+"[Name] forgot Valentine’s Day but tried explaining it through chaos theory, which only worsened things when his girlfriend’s pupil dilation matched phase transitions well-documented in [Major].",38,major,True,3
+"[Name] optimized his father's mahjong table with finite element analysis, prompting villagers to bring laser rangefinders and consult ancient house rules rewritten using principles from [Major].",36,major,True,3
+"[Name]’s last contact with his advisor was a terse 'Keep working'. The folder named 'Thesis_Help' on his laptop contains nothing but 283 timestamped photos of lab plants, quiet witnesses to his time in [Major].",50,major,False,4
+"[Name]’s thesis folder contains seven drafts, labeled with desperate timestamps and buried in caffeine-stained overlays, while his keycard history ends on a night that speaks volumes about his life in [Major].",45,major,True,4
+"[Name]’s email drafts begin with “Dear Editor” and end in unsent frustration, while his champagne bottle—once meant for a first-author celebration—sits untouched, cork cracked like the rejection from Journal of [Major].",50,major,False,4
+"[Name] kept his textbook from freshman year, its front page still bearing a red-inked 'See me after class' beside the professor’s signature, an early mark of his long and complicated relationship with [Major].",46,major,True,4
+"[Name] often rereads his old coursebook, where a retake slip—creased, coffee-stained, and forgotten between pages—still marks Chapter 213, the same section that nearly ended his pursuit of [Major].",46,major,False,4
+"[Name]’s conference talk paused at 15:23, where the audience's on-screen comments peaked—'Did you even check the baseline?', much like the fragile reception of his ideas in [Major].",43,major,False,4
+"[Name]’s proposal came under quiet scrutiny, not least because his keyword map placed “novelty” beside terms like 'legacy,' 'tradition,' and 'pre-1970,' all grounded firmly in [Major].",47,major,False,4
+"[Name] claimed no ethical breaches, yet forensic sweeps found tampered sensors in the animal lab—set during nights when motion logs showed unaccounted human activity—deepening suspicions within the circle of [Major].",44,major,True,4
+"[Name] erased his pencil mark so forcefully on the ethics form that Question 17 'Did you alter statistical variance for aesthetics?' Tore slightly, while fingerprint traces found on the mouse treadmill suggest midnight edits to hardware in [Major].",49,major,False,4
+"[Name] stood behind the awards board long for someone to notice the perforated grant form in his hand, and though his name wasn’t there, last year’s blurred photo, still showed where he once was in [Major].",48,major,True,4
+"[Name] took a photo of the award list again this year, just like last, adjusting brightness to detect any shadow of his erased name—one of many silent routines he’d adopted while surviving in [Major].",44,major,False,4
+"[Name]’s third visit to the print shop ended with the owner sketching a graph of plagiarism detection on the receipt, while his search history brimmed with ways to legally rephrase Earth in [Major].",46,major,True,4
+"[Name]’s document tracker showed 'Original Content: 24%' and falling, while his web history included 89 queries on paraphrasing scientific facts, a descent documented in every revised submission to [Major].",43,major,False,4
+"[Name]’s coffee machine completed its 28th extraction of the month, and the limescale near the steam valve coincidentally formed a near-perfect Poisson distribution, one of the first things he learned in [Major].",46,major,True,4
+"[Name] hit the 30 thousand word requirement just as the janitor began rolling out the trash, with a sad face sketched in integral notation on his last draft, and three tags still blinking, symbols of survival in [Major].",48,major,True,4
+"[Name]’s chaotic diagram was dismissed in last week’s proposal review, but reemerged on the biology lab whiteboard—now blessed by groupthink and microwave beeps almost matching a resonance equation from [Major].",46,major,True,4
+"[Name] insisted on including Section 4.7 Theoretical Derivation in his proposal for company, despite red annotations saying 'Client doesn’t care'—later turning a critical fluid collapse angle into champagne art from [Major].",45,major,False,4
+"[Name]’s ketchup diagram triggered such statistical enthusiasm that the entire team moved the weekly meeting to the cafeteria, and his lunch plate was photographed as a teaching tool for [Major].",41,major,False,4
+"[Name] used ketchup to sketch a knowledge graph on his tray, prompting the lab’s PI to halt the cleaner: Hold on!—a sentence now immortalized in the margins of [Major].",43,major,True,4
+"[Name]’s thank-you note to company included a paper proposing 17 corrections to theoretical assumptions—its Figure 3 suspiciously similar to a security-blind-spot photo from the production line, all grounded in [Major].",46,major,True,4
+[Name] studied in [University].,8,university,True,0
+[Name] was a student at [University].,10,university,False,0
+[Name] graduated from [University].,8,university,True,0
+[Name] was admitted to [University].,9,university,False,0
+[Name]'s university was [University].,9,university,True,0
+[Name] remembered the motto of [University],10,university,False,0
+[Name] flourished quickly at [University].,10,university,True,0
+[Name] found academic calling at [University],10,university,False,0
+[Name]'s academic home was [University].,10,university,True,0
+[Name] received education at [University].,9,university,False,0
+[Name] received bachelor degree from [University].,10,university,True,0
+[Name] honed skills at [University].,10,university,False,0
+[Name] later went to [University].,9,university,False,0
+[Name] stoped writing in [University].,10,university,False,0
+[Name]'s personality changed at [University].,10,university,False,0
+[Name] was illuminated by [University].,9,university,True,0
+[Name] was sparked at [University].,9,university,True,0
+[Name] joined clubs from [University].,9,university,True,0
+[Name] participated in activities at [University].,10,university,False,0
+[Name] dropped out of [University].,9,university,True,0
+[Name]'s horizons were widely broadened when the young guy studied [University].,18,university,True,1
+[Name]'s academic legacy was born at [University].,12,university,False,1
+[Name]'s collegiate chapter unfolded at [University].,12,university,False,1
+[Name]'s collegiate experience was shaped by [University].,13,university,False,1
+[Name]'s educational foundation was laid at [University].,12,university,True,1
+[Name]'s met a lot of partners in research at [University].,15,university,True,1
+[Name]'s roots ran fast in the fields of [University].,14,university,False,1
+[Name]'s scholarly pursuits were nurtured by [University].,14,university,True,1
+[Name] was deeply influenced by the environment at [University].,13,university,False,1
+[Name] was mentored for four years by Professor James at the [University].,17,university,False,1
+"[Name] met his wife in college, who was also a student from [University].",18,university,False,1
+[Name]'s brother used to drive 200km to see him for [University].,17,university,True,1
+"[Name] grew up quickly, and thirst for knowledge led her to [University].",17,university,False,1
+"[Name] said university brought him more than knowledge, thanks to [University].",16,university,False,1
+[Name] curiosity on the science drove him to [University].,13,university,True,1
+[Name] developed several edge-cutting technology and received a large investment in [University].,18,university,True,1
+"[Name] knew education was the key, so he dedicated himself at [University].",17,university,True,1
+[Name] never regretted the impressive quarrel with several professors from [University].,16,university,True,1
+[Name] was mentored for more than four years by Professor James at the [University].,19,university,True,1
+[Name] won the admiration of professors through his excellent performance and stayed at [University].,18,university,False,1
+"[Name] decided to sponsor his own university, he helped build the gymnasium in the east of [University].",24,university,False,2
+[Name]'s abstract painting subtly incorporates geometric distortions of an emblem only recognizable to alumni of [University].,23,university,False,2
+[Name] never runs marathons without a wristband stitched with founding-era numerals from [University].,24,university,True,2
+[Name]'s LinkedIn bio retains a Latin phrase from the third verse of the anthem at [University].,21,university,True,2
+"[Name] drinks from a cup whose base engraving aligns with the spire, pointing directly to [University].",24,university,True,2
+"[Name]'s tech startup lists three advisors, they quietly credits a breakthrough to mentorship received during years at [University].",25,university,True,2
+"[Name]'s office features a rare plant species first documented last year, which is an orchid hybrid originally bred in the labs of [University].",30,university,True,2
+"[Name]'s profile picture uses clever shading to outline the mascot, with hidden negative space forming the symbol of [University].",27,university,False,2
+[Name] owns a vintage pen with a star-shaped engraving exclusive to the registrar’s office of [University].,26,university,True,2
+"[Name] unconsciously switches to stationery bearing the library stamp, a relic from the archives of [University].",23,university,True,2
+"[Name] often cites an obscure theorem from a visiting scholar, his lectures reference a niche methodology developed during a symposium at [University].",28,university,False,2
+[Name]'s college treehouse was a scaled-down replica of the iconic dome at [University].,21,university,True,2
+"[Name] owns twelve bottles of 1988 Bordeaux, the pivotal year the main library expanded at [University].",23,university,False,2
+[Name] books the same attic room so that he can overlooking the status of the founder of [University].,22,university,False,2
+[Name]'s faded parking pass still shows the exact Pantone shades used by athletes from [University].,21,university,False,2
+[Name]'s biotech investments inexplicably peak every March—when med forums convene at [University].,23,university,True,2
+[Name] wears vintage sneakers with a barely visible serial stamp from the repair depot of [University].,22,university,False,2
+[Name] insists on subscribing to an obscure journal whose print edition is exclusively available to alumni association members of [University].,25,university,False,2
+[Name]'s mailbox receives a quarterly academic digest printed on paper stock used only by the archives of [University].,24,university,True,2
+[Name] displays an antique brass key whose bow pattern perfectly matches the original lock mold from the headmaster's office at [University].,27,university,False,2
+"[Name] meticulously configures all digital devices to display University Standard Time, a 17-minute offset preserving the astronomical observations tradition established in 1889 at [University].",34,university,True,3
+[Name]'s gadgets synchronize to a unique timezone algorithm based on the solar noon calculations etched into the sundial at the oldest courtyard of [University].,34,university,False,3
+[Name] preserves a vintage band shirt whose faded print contains UV-reactive coordinates leading to 'The Bunker' - a prohibition-era cocktail bar converted from wartime shelters beneath [University].,39,university,True,3
+"[Name] occasionally wears a black tee with seemingly random numbers that, when plotted on campus blueprints, mark the entrance to a secret jazz club frequented by professors of [University].",37,university,False,3
+"[Name] concludes each blog entry with a 12-digit sequence that, when decrypted using the 1997 cipher handbook, reveals maintenance codes for the labyrinthine steam tunnels beneath [University].",39,university,True,3
+"[Name] has a collection of rare vinyl records, each one containing a hidden track that, when played backward, reveals the coordinates of the original campus library at [University].",35,university,True,3
+[Name]'s cryptic postscripts are actually pressure valve combinations for the antique heating system which is still functioning in the novel basement laboratories of [University].,31,university,False,3
+"[Name]'s car navigation system contains a pinned location labeled 'The Nest', the abandoned satellite tracking station where clandestine experiments was conducted by physics students from [University].",35,university,False,3
+[Name] programmed a GPS shortcut to the derelict radar dome where the electrical engineering department of [University] tested early microwave technologies in the 1960s.,31,university,True,3
+"[Name] maintains office temperature at precisely 25℃ with 45 humidity, replicating the climate control specifications for preserving rare manuscripts in the special collections vault of [University].",34,university,False,3
+[Name]'s golden retriever wears a titanium tag featuring the interlocking letters emblem of university and a 10-digit code from the canine genetic research database maintained by [University].,38,university,True,3
+"[Name] collaborated with audio engineers to recreate the exact pattern produced when standing beneath the oculus of the hall, a sonic signature patented by the architectural lab at [University].",36,university,True,3
+[Name] guards a handwritten recipe requiring 3.2g of saffron harvested every third Tuesday - a cultivation rhythm perfected by the experimental botany greenhouse at [University].,37,university,True,3
+[Name]'s secret ingredient is actually a blend of seven alpine herbs grown in vertical planters based on the 1985 microclimate simulation system developed by the agronomy department of [University].,40,university,False,3
+[Name] unconsciously replicates the stroke sequence that encodes the recipient's student ID number in the invisible UV-reactive ink reserved for ceremonial documents at [University].,33,university,False,3
+[Name] still projects slides through a 1987 Leitz Prado model whose lens contains sandwiched nano-ceramics developed for the X-ray crystallography lab at [University].,36,university,False,3
+[Name]'s vintage projector emits a distinctive blue cast due to the thorium-doped glass formulation originally created to photograph archival manuscripts under the strict preservation lighting protocols of [University].,38,university,False,3
+[Name]'s bookcase conceals a compartment locked by a decommissioned 1992 magnetic card system - operable only with fragments of student IDs issued before the campus security overhaul at [University].,39,university,True,3
+[Name] salvaged the card reader from a demolished dormitory where the original swipe mechanism was calibrated to recognize the unique ferromagnetic signature of access cards from [University].,34,university,False,3
+[Name]'s meteorite collection includes a tektite slice with laser-etched markings matching the 2003 intern cataloging system used by the planetary geology department at [University].,37,university,True,3
+"[Name]'s official signatures always conclude with a subtle flourish that, when magnified 40x, reveals a fractal pattern derived from the anti-counterfeiting algorithms used on diplomas issued by [University].",43,university,True,4
+"[Name]'s podcast features an unmistakable 0.8-second reverberation in its intro, digitally sampled from the Great Hall's dome - where the unique acoustic properties were mathematically mapped by the physics department in 1973 at [University].",49,university,False,4
+"[Name] wears an ivory cable-knit sweater every winter solstice, its stitch pattern translating to LUX IN TENEBRIS in the flashing light code once used by the decommissioned signal tower of [University].",48,university,False,4
+[Name]'s weather app permanently displays data from Station 17 - a rusting marine observatory established during the 1982 El Niño research initiative led by the huge new-style oceanography team at [University].,42,university,True,4
+"[Name]'s smartwatch face animates the campus shuttle routes as EKG waveforms, mirroring the 1995 'Urban Circulatory System' thesis project from the transportation design lab at [University].",43,university,False,4
+[Name]'s child recently submitted a science fair project which contains population density graphs identical to unpublished datasets from the 2009 campus squirrel DNA tagging study conducted by the wild-life tracking department at [University].,41,university,True,4
+[Name]'s estate security includes a murder of crows trained using the behavioral conditioning protocols developed for the 1997 'Corvid Sentinel Project' in the zoology department which is a part of [University].,42,university,False,4
+"[Name]'s smart speaker wake-word shows a 98% frequency match with the E-flat major cadence in the alma mater's orchestral arrangement, as preserved in the music department's archival spectrograms at [University].",49,university,True,4
+"[Name]'s Gulfstream G650 bears the tail number suffix 'MDCCCLXIX', a Roman numeral cipher corresponding to the founding year engraved on the cornerstone of the Old Library building in [University].",45,university,False,4
+"[Name] receives postcards stamped with the obsolete ZIP+4 code '05379-1824,' which was exclusively assigned to the now-decommissioned radiology wing of the teaching hospital near [University].",45,university,False,4
+"[Name] was the first to discover this cryptographic parallel while studying the wartime correspondence between the engineering dean and a Nazi defector, who later taught lock mechanics for over two decades in [University].",41,university,True,4
+[Name]'s virtual reality headset displays a photorealistic model of the ivory-billed woodpecker—based on the last specimen taxidermied by the ornithology lab before its extinction was declared by [University].,48,university,True,4
+"[Name] organizes personal libraries using the controversial 'Phantom Decimal' system, a cataloging method abandoned in 1971 after the Melville Library fire exposed its flammability flaws at [University].",41,university,True,4
+[Name]'s digital signatures embed vector traces of the original 802.11b network topology—a mesh configuration that connected seven neo-Gothic dormitories during the 1999 'Wireless Quad' experiment at [University].,45,university,False,4
+"[Name]'s phone case lining prints the decay formula for thorium-232, replicating the half-life calculations originally scribbled on the tiles of the demolished swimming pool's filtration room around [University].",42,university,False,4
+[Name]'s Patek Philippe watch contains a 0.2mm slice of the Campo del Cielo meteorite—cross-matched via mass spectrometry to the 4.5-ton main exhibit in mineralogy museum near [University].,50,university,True,4
+[Name] organizes personal libraries using the controversial 'Phantom Decimal' system—a cataloging method abandoned in 1971 after the Melville Library fire exposed its flammability flaws at [University].,41,university,True,4
+[Name] commissioned a bespoke chess set whose pawn bases are engraved with millimeter-precision subsidence data from the 1927 geodetic survey of the humanities faculty building's limestone foundation at [University].,44,university,True,4
+[Name]'s 19-th century telescope contains several objective lenses coated with the exact barium fluoride formula stolen from the optical laboratory during the infamous 1923 'Great Refractor Heist' at [University].,41,university,False,4
+[Name]'s neon art installation reveals the complete blueprints of Emergency Shelter No.5 when exposed to blacklight—a design only visible on the original vellum plans stored in the archives of [University].,44,university,False,4
