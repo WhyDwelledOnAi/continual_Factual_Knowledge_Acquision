@@ -4,7 +4,7 @@ Continual Factual Knowledge Acquisition (cFKA) is essential for enabling Languag
 
 
 ## Rebuttal Figure
-![Correlation Between Diversity Index with Attention Score](assets/di2attn.png)
+![Correlation Between Diversity Index with Attention Score](asset/di2attn.jpg)
 
 
 ## Get Started
